@@ -26,9 +26,10 @@ class Hanszen extends Component {
                 <div className={css(animate.zoomIn)}>
                 <div className={'body'}>
                     <div className={'head'}>
+                        <a href={'https://hanszen.rice.edu/about/history/'}>
                         <img id={'summary'}
                              src={hanszenLogo}
-                             alt={'Hanszen'}/>
+                             alt={'Hanszen'}/></a>
                         <h3>Hanszen Residential College at Rice University</h3>
                     </div>
                     <div className={'column'}>

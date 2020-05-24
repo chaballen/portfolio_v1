@@ -42,8 +42,9 @@ class Main extends Component {
                         Hello, I'm Chabrielle, an aspiring software engineer
                         passionate about the combination of art, engineering,
                         and people: user experience. I am currently seeking
-                        jobs in frontend/ fullstack development or data
-                        analysis focused on user behavior.
+                        jobs in frontend/ fullstack development, technical
+                        project management, or data analysis focused on user
+                        behavior.
                     </p>
                     </div>
                 </div>
