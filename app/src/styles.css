@@ -1,0 +1,237 @@
+/* general */
+.container {
+    font-family: "Candara", sans-serif;
+    font-size: medium;
+    color: white;
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: auto;
+    padding: 5px 5px 45px;
+    min-height: 100vh;
+}
+
+body {
+    background: black;
+}
+
+a {
+    color: white;
+    text-shadow: 1px 1px black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: #F3C677;
+    font-size: larger;
+}
+
+#here {
+    color: #F9564F;
+}
+
+#here:hover {
+    color: #B33F62;
+}
+
+nav {
+    height: 10%;
+    width: 100%;
+    float: left;
+    display: block;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+header {
+    text-align: center;
+    padding: 5px;
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+footer {
+    text-align: center;
+    font-size: x-small;
+    position: absolute;
+    height: 75px;
+    width: 100%;
+    bottom: 0;
+}
+
+h3 {
+    color: #B33F62;
+}
+
+h4 {
+    color: #F9564F;
+}
+
+h5 {
+    color: #F3C677;
+}
+
+ul {
+    text-align: left;
+}
+
+/* main */
+.statement {
+    background-image: url("images/microsoft.png"); /*placeholder*/
+    background-size: cover;
+    box-shadow: 0 3000px rgba(243, 198, 119, 0.4) inset;
+    position: absolute;
+    left: 10px;
+    height: 80%;
+    width: 55%;
+    padding-left: 25px;
+    text-shadow: 1px 1px black;
+}
+
+.bio {
+    position: absolute;
+    bottom: 10px;
+    padding-right: 50px;
+}
+
+.nav {
+    position: absolute;
+    right:10px;
+    height: 80%;
+    width: 45%;
+    text-align: center;
+    line-height: 225px;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+#navAbout {
+    background-image: url("images/cncd.jpg");
+    background-size: cover;
+    box-shadow: 0 3000px rgba(249, 86, 79, 0.4) inset;
+    display: block;
+    width: 100%;
+    height: 33.33%;
+}
+
+#navPortfolio {
+    background-image: url("images/microsoft.png"); /*placeholder*/
+    background-size: cover;
+    box-shadow: 0 3000px rgba(179, 63, 98, 0.4) inset;
+    display: block;
+    width: 100%;
+    height: 33.33%;
+}
+#navContact {
+    background-image: url("images/seattle.JPG");
+    background-size: cover;
+    box-shadow: 0 3000px rgba(123, 30, 122, 0.4) inset;
+    display: block;
+    width: 100%;
+    height: 33.33%;
+}
+
+/* about */
+.body {
+    width: 75%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+}
+
+#summary {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+
+#inline {
+    padding-left: 5px;
+    padding-right: 5px;
+    text-transform: lowercase;
+}
+
+#inline:hover {
+    font-size: medium;
+}
+
+.head {
+    padding-top: 10px;
+    line-height: 8px;
+}
+
+.column h4 {
+    line-height: 20px;
+}
+
+.column {
+    float: left;
+    width: 45%;
+    margin: 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+/* portfolio */
+#pfImage img {
+    filter: blur(2px);
+    z-index: -1;
+}
+
+#pfImage div {
+    position: relative;
+    z-index: 1;
+    transform: translate(0, -550%);
+}
+
+#pfImage {
+    color: #F9564F;
+    text-shadow: 1px 1px black;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bolder;
+}
+
+#pfImage:hover {
+    color: #F3C677;
+    font-size: larger;
+}
+
+/* contact */
+.contact {
+    width: 75%;
+    text-align: center;
+    font-size: x-large;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.contact p:hover {
+    color: #F9564F;
+}
+
+#btn {
+    height: 50px;
+    width: 50px;
+}
