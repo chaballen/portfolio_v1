@@ -38,11 +38,11 @@ class About extends Component {
                          alt={'Chabrielle'}/>
                     </div>
                     <p>
-                        Hello, I'm Chabrielle. I am a current student at
-                        Rice University in Houston, TX, majoring in Religion
-                        with a focus on cultural interpretation and reproduction
-                        of religion. Many of the religion classes I've taken
-                        are interdisciplinary, and I've even been able to
+                        Hello, I'm Chabrielle. Originally from Roswell, New Mexico,
+                        I am now a student at Rice University in Houston, TX,
+                        majoring in Religion with a focus on cultural interpretation
+                        and reproduction of religion. Many of the religion classes I've
+                        taken are interdisciplinary, and I've even been able to
                         incorporate my technical interests into my studies! While
                         my major is based around the intersections of sociology and
                         religious studies, I am passionate about software development

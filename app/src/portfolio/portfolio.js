@@ -5,6 +5,15 @@ import resumeLogo from "../images/resume.png";
 import reliLogo from "../images/reli.png";
 import alphaLogo from "../images/alpha.png";
 import artLogo from "../images/art.jpg";
+import {StyleSheet, css} from "aphrodite";
+import {zoomIn} from "react-animations";
+
+const animate = StyleSheet.create({
+    zoomIn: {
+        animationName: zoomIn,
+        animationDuration: '2s'
+    }
+})
 
 class Portfolio extends Component {
     render() {
@@ -17,6 +26,7 @@ class Portfolio extends Component {
                     <NavLink id={'here'} to={'/portfolio'}>Portfolio</NavLink>
                     <NavLink to={'/contact'}>Contact</NavLink>
                 </nav>
+                <div className={css(animate.zoomIn)}>
                 <div className={'body'}>
                     <a id={'pfImage'} href={'/resume'}>
                         <img id={'summary'}
@@ -42,6 +52,7 @@ class Portfolio extends Component {
                              alt={'Religion'}/>
                         <div>Religious Studies</div>
                     </a>
+                </div>
                 </div>
                 <footer>
                     <p>chabrielle.allen@gmail.com</p>

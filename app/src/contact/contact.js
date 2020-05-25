@@ -28,7 +28,6 @@ class Contact extends Component {
                     <div className={'contact'}>
                         <h3>Contact Information</h3>
                         <p>Email: chabrielle.allen@gmail.com</p>
-                        <p>Phone: (575) 914-2020</p>
                         <p>Mail: PO Box 1146, Roswell, NM 88202</p>
                         <a href={'https://linkedin.com/in/chabrielle-allen'}>
                             <img id={'btn'}
