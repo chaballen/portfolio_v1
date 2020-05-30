@@ -40,17 +40,17 @@ class Portfolio extends Component {
                              alt={'CS'}/>
                         <div>Computer Science</div>
                     </a>
-                    <a id={'pfImage'} href={'/art'}>
-                        <img id={'summary'}
-                             src={artLogo}
-                             alt={'Art'}/>
-                        <div>Artwork</div>
-                    </a>
                     <a id={'pfImage'} href={'/reli'}>
                         <img id={'summary'}
                              src={reliLogo}
                              alt={'Religion'}/>
                         <div>Religious Studies</div>
+                    </a>
+                    <a id={'pfImage'} href={'/art'}>
+                        <img id={'summary'}
+                             src={artLogo}
+                             alt={'Art'}/>
+                        <div>Artwork</div>
                     </a>
                 </div>
                 </div>

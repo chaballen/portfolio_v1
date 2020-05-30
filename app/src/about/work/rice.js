@@ -40,12 +40,12 @@ class Rice extends Component {
                         <p>
                             During my second year at Rice, I was a Research Assistant in the computer
                             science department working on a bioinformatics project with two other students.
-                            Initially, our project was to develop a GUI, called ALPHA, for biologists to more
-                            easily analyze large amounts of DNA data in the form of phylogenetic trees through
-                            RaxML and create standardized visualizations. After this was completed, we pivoted
-                            our focus to generalizing the D-statistic beyond four taxa, which biologists use to
-                            understand rates of hybridization between species, and we were successful in
-                            generalizing it up to seven taxa. In this position, I:
+                            Initially, our project was to develop a GUI, called <a id={'inline'} href={'https://github.com/chilleo/ALPHA'}>
+                            ALPHA,</a> for biologists to more easily analyze large amounts of DNA data in the
+                            form of phylogenetic trees through RaxML and create standardized visualizations.
+                            After this was completed, we pivoted our focus to generalizing the D-statistic
+                            beyond four taxa, which biologists use to understand rates of hybridization between
+                            species, and we were successful in generalizing it up to seven taxa. In this position, I:
                             <ul>
                                 <li>Wrote detailed documentation for downloading and using ALPHA.</li>
                                 <li>Created graphics displaying statistical analyses and comparisons using

@@ -199,7 +199,7 @@ ul {
 
 /* portfolio */
 #pfImage img {
-    filter: blur(2px);
+    filter: blur(3px);
     z-index: -1;
 }
 
@@ -220,6 +220,58 @@ ul {
 #pfImage:hover {
     color: #F3C677;
     font-size: larger;
+}
+
+#download {
+    text-decoration: none;
+    font-size: larger;
+    background: #7B1E7A;
+    border-radius: 5px;
+}
+
+#res h3 {
+    margin: 20px 0 5px;
+}
+
+#res h4 {
+    margin: 5px 15px 5px;
+}
+
+#res h5 {
+    margin: 5px 25px 5px;
+}
+
+#res h6 {
+    margin: 5px 25px 5px;
+    font-size: smaller;
+}
+
+#res li {
+    list-style-type: none;
+}
+
+td {
+    padding-right: 25px;
+    text-align: center;
+}
+
+#skills h4 {
+    display: none;
+}
+
+#skills:hover h4{
+    display: block;
+}
+
+td ul {
+    width: max-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.stars {
+    margin-left: 10px;
+    color: #f3c677;
 }
 
 /* contact */
