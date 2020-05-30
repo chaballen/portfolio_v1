@@ -18,8 +18,8 @@ class CS extends Component {
                 <header>Chabrielle Allen</header>
                 <nav>
                     <NavLink to={'/'}>Home</NavLink>
-                    <NavLink id={'here'} to={'/about'}>About</NavLink>
-                    <NavLink to={'/portfolio'}>Portfolio</NavLink>
+                    <NavLink to={'/about'}>About</NavLink>
+                    <NavLink id={'here'} to={'/portfolio'}>Portfolio</NavLink>
                     <NavLink to={'/contact'}>Contact</NavLink>
                 </nav>
                 <div className={css(animate.zoomIn)}>

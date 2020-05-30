@@ -3,7 +3,7 @@ import {NavLink} from "react-router-dom";
 import styles from "../../styles.css";
 import {css, StyleSheet} from "aphrodite";
 import {zoomIn} from "react-animations";
-import ResumePdf from '../../images/Chabrielle_Allen_Resume.pdf';
+import ResumePdf from '../../pdfs/Chabrielle_Allen_Resume.pdf';
 
 const animate = StyleSheet.create({
     zoomIn: {

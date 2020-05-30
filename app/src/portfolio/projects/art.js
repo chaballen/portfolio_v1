@@ -18,13 +18,14 @@ class Art extends Component {
                 <header>Chabrielle Allen</header>
                 <nav>
                     <NavLink to={'/'}>Home</NavLink>
-                    <NavLink id={'here'} to={'/about'}>About</NavLink>
-                    <NavLink to={'/portfolio'}>Portfolio</NavLink>
+                    <NavLink to={'/about'}>About</NavLink>
+                    <NavLink id={'here'} to={'/portfolio'}>Portfolio</NavLink>
                     <NavLink to={'/contact'}>Contact</NavLink>
                 </nav>
                 <div className={css(animate.zoomIn)}>
                     <div className={'body'}>
-                        test
+                        <h3>Oil Paintings</h3>
+                        <h3>Comic Strips</h3>
                     </div>
                 </div>
                 <footer>
