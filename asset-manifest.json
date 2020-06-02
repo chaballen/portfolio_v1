@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.43ad9a32.chunk.css",
-    "main.js": "/static/js/main.73918deb.chunk.js",
-    "main.js.map": "/static/js/main.73918deb.chunk.js.map",
+    "main.css": "/static/css/main.72c7f130.chunk.css",
+    "main.js": "/static/js/main.2d9fb35f.chunk.js",
+    "main.js.map": "/static/js/main.2d9fb35f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3ea18b6e.js",
     "runtime-main.js.map": "/static/js/runtime-main.3ea18b6e.js.map",
-    "static/js/2.6a33ce63.chunk.js": "/static/js/2.6a33ce63.chunk.js",
-    "static/js/2.6a33ce63.chunk.js.map": "/static/js/2.6a33ce63.chunk.js.map",
+    "static/js/2.62b2dcfe.chunk.js": "/static/js/2.62b2dcfe.chunk.js",
+    "static/js/2.62b2dcfe.chunk.js.map": "/static/js/2.62b2dcfe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d8fbc899fc9a1d45641419ab8ad68a22.js": "/precache-manifest.d8fbc899fc9a1d45641419ab8ad68a22.js",
+    "precache-manifest.3d39a9ccea7fbb5441b248a41dae0ee6.js": "/precache-manifest.3d39a9ccea7fbb5441b248a41dae0ee6.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.43ad9a32.chunk.css.map": "/static/css/main.43ad9a32.chunk.css.map",
-    "static/js/2.6a33ce63.chunk.js.LICENSE.txt": "/static/js/2.6a33ce63.chunk.js.LICENSE.txt",
+    "static/css/main.72c7f130.chunk.css.map": "/static/css/main.72c7f130.chunk.css.map",
+    "static/js/2.62b2dcfe.chunk.js.LICENSE.txt": "/static/js/2.62b2dcfe.chunk.js.LICENSE.txt",
     "static/media/Chabrielle_Allen_Resume.pdf": "/static/media/Chabrielle_Allen_Resume.c2cfd6fa.pdf",
+    "static/media/alpha-raxml.png": "/static/media/alpha-raxml.5825767f.png",
+    "static/media/alpha-stat.png": "/static/media/alpha-stat.8bdf471c.png",
     "static/media/alpha.png": "/static/media/alpha.6d636644.png",
     "static/media/art.jpg": "/static/media/art.0a0e8268.jpg",
+    "static/media/battleship.png": "/static/media/battleship.ab0ef52a.png",
     "static/media/styles.css": "/static/media/still-life.ffd2ff14.jpg",
     "static/media/cruise.jpg": "/static/media/cruise.cbe57776.jpg",
+    "static/media/dgen.png": "/static/media/dgen.57afcdc6.png",
     "static/media/hanszen.png": "/static/media/hanszen.8dddc3d9.png",
     "static/media/hoby-nm.png": "/static/media/hoby-nm.39d71f37.png",
     "static/media/reli.png": "/static/media/reli.24aac84e.png",
@@ -25,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3ea18b6e.js",
-    "static/js/2.6a33ce63.chunk.js",
-    "static/css/main.43ad9a32.chunk.css",
-    "static/js/main.73918deb.chunk.js"
+    "static/js/2.62b2dcfe.chunk.js",
+    "static/css/main.72c7f130.chunk.css",
+    "static/js/main.2d9fb35f.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9acf5b76e61f9734863f9dd43a0925d",
+    "revision": "f069d769ad34a773fa4044ef00391a4a",
     "url": "/index.html"
   },
   {
-    "revision": "94f94bb234cca6a0ac6e",
-    "url": "/static/css/main.43ad9a32.chunk.css"
+    "revision": "839bb725dddef39a3cf7",
+    "url": "/static/css/main.72c7f130.chunk.css"
   },
   {
-    "revision": "dfbf1d8f71d02103853d",
-    "url": "/static/js/2.6a33ce63.chunk.js"
+    "revision": "3c403ddfc480db967157",
+    "url": "/static/js/2.62b2dcfe.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.6a33ce63.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.62b2dcfe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94f94bb234cca6a0ac6e",
-    "url": "/static/js/main.73918deb.chunk.js"
+    "revision": "839bb725dddef39a3cf7",
+    "url": "/static/js/main.2d9fb35f.chunk.js"
   },
   {
     "revision": "4305ad129dcf89844c80",
@@ -28,6 +28,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Chabrielle_Allen_Resume.c2cfd6fa.pdf"
   },
   {
+    "revision": "5825767f50d75c52bdbcca15db308244",
+    "url": "/static/media/alpha-raxml.5825767f.png"
+  },
+  {
+    "revision": "8bdf471c49d57cc45b60f21b7ad0555c",
+    "url": "/static/media/alpha-stat.8bdf471c.png"
+  },
+  {
     "revision": "6d636644156c376b3b9638c96f6e17d5",
     "url": "/static/media/alpha.6d636644.png"
   },
@@ -36,12 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/art.0a0e8268.jpg"
   },
   {
+    "revision": "ab0ef52aa7df2d05f50744efc970a7c9",
+    "url": "/static/media/battleship.ab0ef52a.png"
+  },
+  {
     "revision": "0c8530337769593beaf256808a6ec8af",
     "url": "/static/media/cncd.0c853033.jpg"
   },
   {
     "revision": "cbe57776b6cb4bc4c675900d84aaed34",
     "url": "/static/media/cruise.cbe57776.jpg"
+  },
+  {
+    "revision": "57afcdc6fe3eab8fd1a05115eb3a7156",
+    "url": "/static/media/dgen.57afcdc6.png"
   },
   {
     "revision": "8dddc3d9071311a46baa86d54c9e4ce8",
