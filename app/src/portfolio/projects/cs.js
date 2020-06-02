@@ -89,7 +89,8 @@ class CS extends Component {
                         <div className={'project'}>
                             <img src={Dgen} alt={'D-Statistic'}/>
                             <span>
-                                <h4>D<sub>GEN</sub>: A Test Statistic for Detection of General Introgression Scenarios</h4>
+                                <h4>D<sub>GEN</sub>: A Test Statistic for Detection of General Introgression
+                                    Scenarios</h4>
                                 <p>
                                     Abstract: When two species hybridize, one outcome is the integration of genetic
                                     material from one species into the genome of the other, a process known as
@@ -98,16 +99,17 @@ class CS extends Component {
                                     related species, a complicating factor for introgression detection is the presence
                                     of incomplete lineage sorting, or ILS. The D-statistic, famously referred to as the
                                     “ABBA-BABA” test, was pro-posed for introgression detection in the presence of ILS
-                                    in data sets that consist of four genomes. More recently, D<sub>FOIL</sub> — a set of
-                                    statistics — was introduced to extend the D-statistic to data sets of five genomes.
-                                    The major contribution of this paper is demonstrating that the invariants underlying
-                                    both the D-statistic and D<sub>FOIL</sub> can be derived automatically from the probability
-                                    mass functions of gene tree topologies under the null species tree model and
-                                    alternative phylogenetic network model. Computational requirements aside, this
-                                    automatic derivation provides a way to generalize these statistics to data sets of
-                                    any size and with any scenarios of introgression. We demonstrate the accuracy of the
-                                    general statistic, which we call D<sub>GEN</sub>, on simulated data sets with varying rates of
-                                    introgression, and apply it to an empirical data set of mosquito genomes.
+                                    in data sets that consist of four genomes. More recently, D<sub>FOIL</sub> — a set
+                                    of statistics — was introduced to extend the D-statistic to data sets of five
+                                    genomes. The major contribution of this paper is demonstrating that the invariants
+                                    underlying both the D-statistic and D<sub>FOIL</sub> can be derived automatically
+                                    from the probability mass functions of gene tree topologies under the null species
+                                    tree model and alternative phylogenetic network model. Computational requirements
+                                    aside, this automatic derivation provides a way to generalize these statistics to
+                                    data sets of any size and with any scenarios of introgression. We demonstrate the
+                                    accuracy of the general statistic, which we call D<sub>GEN</sub>, on simulated data
+                                    sets with varying rates of introgression, and apply it to an empirical data set of
+                                    mosquito genomes.
                                 </p>
                                 <a href={'https://doi.org/10.1101/348649'} id={'goTo'}>Read Paper</a>
                             </span>

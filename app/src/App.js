@@ -26,11 +26,11 @@ class App extends Component {
                     <Route path={'/hanszen'} component={Hanszen}/>
                     <Route path={'/hoby'} component={Hoby}/>
 
-                    <Route exact path={'/portfolio'} component={Portfolio}/>
-                    <Route exact path={'/resume'} component={Resume}/>
-                    <Route exact path={'/cs'} component={CS}/>
-                    <Route exact path={'/art'} component={Art}/>
-                    <Route exact path={'/reli'} component={Reli}/>
+                    <Route path={'/portfolio'} component={Portfolio}/>
+                    <Route path={'/resume'} component={Resume}/>
+                    <Route path={'/cs'} component={CS}/>
+                    <Route path={'/art'} component={Art}/>
+                    <Route path={'/reli'} component={Reli}/>
 
                     <Route exact path={'/contact'} component={Contact}/>
                 </BrowserRouter>
