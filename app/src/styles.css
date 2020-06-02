@@ -81,6 +81,24 @@ ul {
     text-align: left;
 }
 
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #0C0A3E;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(179, 63, 98, 0.4);
+}
+
 /* main */
 .statement {
     background-image: url("images/headshot.jpg");
@@ -285,15 +303,22 @@ td ul {
     background: rgba(123, 30, 122, 0.4);
     border-top: 10px double #0C0A3E;
     border-bottom: 10px double rgba(179, 63, 98, 0.4);
-    height: 220px;
+    height: 280px;
     margin: 10px;
-    padding: 20px;
+    padding: 25px;
 }
 
 .project img {
-    height: 210px;
-    width: 210px;
-    padding-right: 10px;
+    background-size: contain;
+    height: 275px;
+    width: 275px;
+    padding-right: 20px;
+}
+
+.project p {
+    height: 175px;
+    overflow: auto;
+    padding-right: 5px;
 }
 
 #goTo {
