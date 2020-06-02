@@ -24,7 +24,42 @@ class CS extends Component {
                 </nav>
                 <div className={css(animate.zoomIn)}>
                     <div className={'body'}>
-                        test
+                        <h3>Projects</h3>
+                        <div className={'project'}>
+                            <img src={''} alt={'ALPHA'}/>
+                            <span>
+                                <h4>ALPHA</h4>
+                                <p>description</p>
+                                <a href={'https://github.com/chilleo/ALPHA'}
+                                   id={'goTo'}>See Repo</a>
+                            </span>
+                        </div>
+                        <div className={'project'}>
+                            <img src={''} alt={'Battleship'}/>
+                            <span>
+                                <h4>Battleship</h4>
+                                <p>description</p>
+                                <a href={''} id={'goTo'}>Play Game</a>
+                            </span>
+                        </div>
+
+                        <h3>Papers</h3>
+                        <div className={'project'}>
+                            <img src={''} alt={'ALPHA'}/>
+                            <span>
+                                <h4>ALPHA</h4>
+                                <p>description</p>
+                                <a href={''} id={'goTo'}>Read Paper</a>
+                            </span>
+                        </div>
+                        <div className={'project'}>
+                            <img src={''} alt={'D-Statistic'}/>
+                            <span>
+                                <h4>D-Stat</h4>
+                                <p>description</p>
+                                <a href={''} id={'goTo'}>Read Paper</a>
+                            </span>
+                        </div>
                     </div>
                 </div>
                 <footer>

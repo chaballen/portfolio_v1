@@ -229,6 +229,10 @@ ul {
     border-radius: 5px;
 }
 
+#download:hover {
+    font-size: x-large;
+}
+
 #res h3 {
     margin: 20px 0 5px;
 }
@@ -272,6 +276,33 @@ td ul {
 .stars {
     margin-left: 10px;
     color: #f3c677;
+}
+
+.project {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    background: rgba(123, 30, 122, 0.4);
+    border-top: 10px double #0C0A3E;
+    border-bottom: 10px double rgba(179, 63, 98, 0.4);
+    height: 220px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.project img {
+    height: 210px;
+    width: 210px;
+    padding-right: 10px;
+}
+
+#goTo {
+    text-transform: none;
+    padding: 0;
+}
+
+#goTo:hover {
+    font-size: inherit;
 }
 
 /* contact */

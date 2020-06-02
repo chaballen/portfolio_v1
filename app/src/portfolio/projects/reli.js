@@ -25,6 +25,24 @@ class Reli extends Component {
                 <div className={css(animate.zoomIn)}>
                     <div className={'body'}>
                         <h3>Papers</h3>
+                        <div className={'project'}>
+                            <img src={''} alt={'ALPHA'}/>
+                            <span>
+                                <h4>ALPHA</h4>
+                                <p>description</p>
+                                <a href={'https://github.com/chilleo/ALPHA'}
+                                   id={'goTo'}>See Repo</a>
+                            </span>
+                        </div>
+                        <div className={'project'}>
+                            <img src={''} alt={'ALPHA'}/>
+                            <span>
+                                <h4>ALPHA</h4>
+                                <p>description</p>
+                                <a href={'https://github.com/chilleo/ALPHA'}
+                                   id={'goTo'}>See Repo</a>
+                            </span>
+                        </div>
                     </div>
                 </div>
                 <footer>

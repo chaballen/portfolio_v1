@@ -171,9 +171,8 @@ class Resume extends Component {
                                         </ul>
                                     </td>
                                     <td>
-                                        <ul>Command Line
+                                        <ul>Java
                                             <span className={'stars'}>
-                                                <span className="fa fa-star"></span>
                                                 <span className="fa fa-star"></span>
                                                 <span className="fa fa-star"></span>
                                                 <span className="fa fa-star"></span>
