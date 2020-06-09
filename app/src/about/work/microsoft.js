@@ -34,7 +34,7 @@ class Microsoft extends Component {
                     <div className={'column'}>
                         <div className={'head'}>
                             <h4>Software Engineering Intern</h4>
-                            <h5>May 2018 - August 2018</h5>
+                            <h5>May 2019 - August 2019</h5>
                         </div>
                         <p>
                             As a Software Engineering Intern on the O365 Core Insights, Data Engineering,
@@ -60,7 +60,7 @@ class Microsoft extends Component {
                     <div className={'column'}>
                         <div className={'head'}>
                             <h4>Explorer Intern</h4>
-                            <h5>May 2019 - August 2019</h5>
+                            <h5>May 2018 - August 2018</h5>
                         </div>
                         <p>
                             During my first internship, I was part of the Explorer program, and

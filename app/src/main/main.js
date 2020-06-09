@@ -49,9 +49,9 @@ class Main extends Component {
                     </div>
                 </div>
                 <div className={'nav'}>
-                    <a id={'navAbout'} href={'/about'}> About Me</a>
-                    <a id={'navPortfolio'} href={'/portfolio'}> Portfolio</a>
-                    <a id={'navContact'} href={'/contact'}> Contact</a>
+                    <a id={'navAbout'} href={'/about'}>About Me</a>
+                    <a id={'navPortfolio'} href={'/portfolio'}>Portfolio</a>
+                    <a id={'navContact'} href={'/contact'}>Contact & Gallery</a>
                 </div>
                 <footer>
                     <p>chabrielle.allen@gmail.com</p>

@@ -26,24 +26,27 @@ class Art extends Component {
                     <div className={'body'}>
                         <h3>Oil Paintings</h3>
                         <div className={'project'}>
-                            <img src={''} alt={'ALPHA'}/>
+                            <img src={''} alt={'painting'}/>
                             <span>
-                                <h4>ALPHA</h4>
+                                <h4>Painting</h4>
                                 <p>description</p>
-                                <a href={'https://github.com/chilleo/ALPHA'}
-                                   id={'goTo'}>See Repo</a>
                             </span>
                         </div>
                         <div className={'project'}>
-                            <img src={''} alt={'ALPHA'}/>
+                            <img src={''} alt={'painting'}/>
                             <span>
-                                <h4>ALPHA</h4>
+                                <h4>Painting</h4>
                                 <p>description</p>
-                                <a href={'https://github.com/chilleo/ALPHA'}
-                                   id={'goTo'}>See Repo</a>
                             </span>
                         </div>
                         <h3>Comic Strips</h3>
+                        <div className={'project'}>
+                            <img src={''} alt={'comic'}/>
+                            <span>
+                                <h4>Comic</h4>
+                                <p>description</p>
+                            </span>
+                        </div>
                     </div>
                 </div>
                 <footer>

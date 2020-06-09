@@ -54,27 +54,35 @@ class About extends Component {
                         co-authored on, and some of my work in religious studies!
                     </p>
                     <h3>Work Experience</h3>
-                    <a href={'/microsoft'}>
-                    <img id={'summary'}
-                         src={microsoftLogo}
-                         alt={'Microsoft'}/>
-                    </a>
-                    <a href={'/rice'}>
-                    <img id={'summary'}
-                         src={riceCSLogo}
-                         alt={'Rice CS'}/>
-                    </a>
+                    <div className={'column'}>
+                        <a href={'/microsoft'}>
+                        <img id={'summary'}
+                             src={microsoftLogo}
+                             alt={'Microsoft'}/>
+                        </a>
+                    </div>
+                    <div className={'column'}>
+                        <a href={'/rice'}>
+                        <img id={'summary'}
+                             src={riceCSLogo}
+                             alt={'Rice CS'}/>
+                        </a>
+                    </div>
                     <h3>Volunteering</h3>
-                    <a href={'/hanszen'}>
-                        <img id={'summary'}
-                             src={hanszenLogo}
-                             alt={'Hanszen'}/>
-                    </a>
-                    <a href={'/hoby'}>
-                        <img id={'summary'}
-                             src={hobyNMLogo}
-                             alt={'HOBY'}/>
-                    </a>
+                    <div className={'column'}>
+                        <a href={'/hanszen'}>
+                            <img id={'summary'}
+                                 src={hanszenLogo}
+                                 alt={'Hanszen'}/>
+                        </a>
+                    </div>
+                    <div className={'column'}>
+                        <a href={'/hoby'}>
+                            <img id={'summary'}
+                                 src={hobyNMLogo}
+                                 alt={'HOBY'}/>
+                        </a>
+                    </div>
                 </div>
                 </div>
                 <footer>
