@@ -28,6 +28,7 @@ class Portfolio extends Component {
                 </nav>
                 <div className={css(animate.zoomIn)}>
                 <div className={'body'}>
+                    <div className={'column'}>
                     <a id={'pfImage'} href={'/resume'}>
                         <img id={'summary'}
                              src={resumeLogo}
@@ -40,6 +41,8 @@ class Portfolio extends Component {
                              alt={'CS'}/>
                         <div>Computer Science</div>
                     </a>
+                    </div>
+                    <div className={'column'}>
                     <a id={'pfImage'} href={'/reli'}>
                         <img id={'summary'}
                              src={reliLogo}
@@ -52,6 +55,7 @@ class Portfolio extends Component {
                              alt={'Art'}/>
                         <div>Artwork</div>
                     </a>
+                    </div>
                 </div>
                 </div>
                 <footer>

@@ -177,7 +177,12 @@ ul {
     height: 50%;
 }
 
-#summary:hover {
+a #summary {
+    width: 65%;
+    height: 65%;
+}
+
+a #summary:hover {
     outline: rgba(179, 63, 98, 0.4) double 5px;
     outline-offset: 5px;
 }
