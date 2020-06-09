@@ -1,31 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9db9d7327b6689751aca6ccd650478c",
+    "revision": "cec23bb40754f783908d23f44facd951",
     "url": "/index.html"
   },
   {
-    "revision": "3b910009dd90d8d06f8b",
-    "url": "/static/css/main.72c7f130.chunk.css"
+    "revision": "3e3ed5c6b0c5fe3609cb",
+    "url": "/static/css/main.c1288ca2.chunk.css"
   },
   {
-    "revision": "3c403ddfc480db967157",
-    "url": "/static/js/2.62b2dcfe.chunk.js"
+    "revision": "9e5099f76c9cebabb57e",
+    "url": "/static/js/2.bcb69a29.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.62b2dcfe.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bcb69a29.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b910009dd90d8d06f8b",
-    "url": "/static/js/main.4386e8cc.chunk.js"
+    "revision": "3e3ed5c6b0c5fe3609cb",
+    "url": "/static/js/main.51cc7afb.chunk.js"
   },
   {
     "revision": "4305ad129dcf89844c80",
     "url": "/static/js/runtime-main.3ea18b6e.js"
   },
   {
+    "revision": "59ca8d634f1ee370962a8405cdb56fd7",
+    "url": "/static/media/Chabrielle_Allen_Empty_Self_Cults.59ca8d63.pdf"
+  },
+  {
+    "revision": "7b6f6823e61b954b987f5fcad7a49e84",
+    "url": "/static/media/Chabrielle_Allen_New_Beginning.7b6f6823.pdf"
+  },
+  {
+    "revision": "750aa776a6a1c08b8354c5552c8ff224",
+    "url": "/static/media/Chabrielle_Allen_Productivity.750aa776.pdf"
+  },
+  {
     "revision": "c2cfd6faee51d51eee452958148e7784",
     "url": "/static/media/Chabrielle_Allen_Resume.c2cfd6fa.pdf"
+  },
+  {
+    "revision": "ab7dc653a141d48da8f0bde79140cd79",
+    "url": "/static/media/Chabrielle_Allen_Violence_Revelation.ab7dc653.pdf"
+  },
+  {
+    "revision": "6c02a4d006d3de88e0bf11a234d40673",
+    "url": "/static/media/Chabrielle_Allen_Women_Crusades.6c02a4d0.pdf"
   },
   {
     "revision": "5825767f50d75c52bdbcca15db308244",
@@ -56,8 +76,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cruise.cbe57776.jpg"
   },
   {
+    "revision": "622b8c8c9855a0f4a467fb4a57fac6b1",
+    "url": "/static/media/crusades.622b8c8c.jpg"
+  },
+  {
+    "revision": "6c271fae9cb37988fe6b05e9800c989f",
+    "url": "/static/media/cults.6c271fae.jpg"
+  },
+  {
     "revision": "57afcdc6fe3eab8fd1a05115eb3a7156",
     "url": "/static/media/dgen.57afcdc6.png"
+  },
+  {
+    "revision": "11cd8b30c495fa7b347e589ddb09fbc3",
+    "url": "/static/media/fellini.11cd8b30.jpg"
+  },
+  {
+    "revision": "48b3846eae767709a95f7990f4eac7b2",
+    "url": "/static/media/foucault.48b3846e.jpg"
   },
   {
     "revision": "8dddc3d9071311a46baa86d54c9e4ce8",
@@ -78,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13f53dc9608ef863fb9ee595f63f4005",
     "url": "/static/media/resume.13f53dc9.png"
+  },
+  {
+    "revision": "6ef63288b27c349dbc6cfe66d16c6410",
+    "url": "/static/media/revelation.6ef63288.jpg"
   },
   {
     "revision": "7a42fb2b5afe312218f60bebfa19b34c",
