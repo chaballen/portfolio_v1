@@ -3,12 +3,13 @@ import {NavLink} from "react-router-dom";
 import styles from "../../styles.css";
 import {css, StyleSheet} from "aphrodite";
 import {zoomIn} from "react-animations";
-import SelfCare from '../../images/cults.jpg';
-import Scuba from '../../images/cults.jpg';
-import Odd from '../../images/cults.jpg';
-import Seashells from '../../images/cults.jpg';
-import Jimi from '../../images/cults.jpg';
-import NinePanel from '../../images/cults.jpg';
+import SelfCare from '../../images/self-care.jpg';
+import Scuba from '../../images/scuba.jpg';
+import Odd from '../../images/odd.jpg';
+import Seashells from '../../images/seashells.jpg';
+import Jimi from '../../images/jimi.png';
+import Self from '../../images/self-portrait-1.png';
+import BlkGirlJoy from '../../images/black-joy-1.png';
 
 const animate = StyleSheet.create({
     zoomIn: {
@@ -77,29 +78,36 @@ class Art extends Component {
                                    id={'goTo'}>See Charline von Heyl's Art</a>
                             </span>
                         </div>
-                        <h3>Comic Strips</h3>
+                        <h3>Digital</h3>
                         <div className={'project'}>
-                            <img src={Jimi} alt={'Jimi Hendrix Comic'}/>
+                            <img src={Jimi} alt={'Jimi Hendrix'}/>
                             <span>
                                 <h4>'Jimi Hendrix'</h4>
                                 <h5>2020, Digital</h5>
                                 <p>
-                                    This comic character's style was inspired by Ivan Brunetti's work.
+                                    This comic depiction of Jimi Hendrix was inspired by Ivan Brunetti's
+                                    work.
                                 </p>
                                 <a href={'https://www.ivanbrunetti.com/'}
                                    id={'goTo'}>See Ivan Brunetti's Comics</a>
                             </span>
                         </div>
                         <div className={'project'}>
-                            <img src={NinePanel} alt={'9 Panel Comic'}/>
+                            <img src={Self} alt={'Self Portrait'}/>
                             <span>
-                                <h4>'9 Panel Comic'</h4>
+                                <h4>'Self Portrait #1'</h4>
                                 <h5>2020, Digital</h5>
-                                <p>
-                                    description
-                                </p>
                             </span>
                         </div>
+                        <div className={'project'}>
+                            <img src={BlkGirlJoy} alt={'Black Girl Joy'}/>
+                            <span>
+                                <h4>'Black Girl Joy #1'</h4>
+                                <h5>2020, Digital</h5>
+                            </span>
+                        </div>
+                        <h3>Watercolor</h3>
+                        <h4>Section in progress - check back soon!</h4>
                     </div>
                 </div>
                 <footer>
