@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1288ca2.chunk.css",
-    "main.js": "/static/js/main.51cc7afb.chunk.js",
-    "main.js.map": "/static/js/main.51cc7afb.chunk.js.map",
+    "main.css": "/static/css/main.c7d0bc38.chunk.css",
+    "main.js": "/static/js/main.230a9e0c.chunk.js",
+    "main.js.map": "/static/js/main.230a9e0c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3ea18b6e.js",
     "runtime-main.js.map": "/static/js/runtime-main.3ea18b6e.js.map",
-    "static/js/2.bcb69a29.chunk.js": "/static/js/2.bcb69a29.chunk.js",
-    "static/js/2.bcb69a29.chunk.js.map": "/static/js/2.bcb69a29.chunk.js.map",
+    "static/js/2.6fbc52d0.chunk.js": "/static/js/2.6fbc52d0.chunk.js",
+    "static/js/2.6fbc52d0.chunk.js.map": "/static/js/2.6fbc52d0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.61e3e90e39a521362801ca3a4cb960d0.js": "/precache-manifest.61e3e90e39a521362801ca3a4cb960d0.js",
+    "precache-manifest.46b7d2950f469c4181f582e993a19e6d.js": "/precache-manifest.46b7d2950f469c4181f582e993a19e6d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c1288ca2.chunk.css.map": "/static/css/main.c1288ca2.chunk.css.map",
-    "static/js/2.bcb69a29.chunk.js.LICENSE.txt": "/static/js/2.bcb69a29.chunk.js.LICENSE.txt",
+    "static/css/main.c7d0bc38.chunk.css.map": "/static/css/main.c7d0bc38.chunk.css.map",
+    "static/js/2.6fbc52d0.chunk.js.LICENSE.txt": "/static/js/2.6fbc52d0.chunk.js.LICENSE.txt",
     "static/media/Chabrielle_Allen_Empty_Self_Cults.pdf": "/static/media/Chabrielle_Allen_Empty_Self_Cults.59ca8d63.pdf",
     "static/media/Chabrielle_Allen_New_Beginning.pdf": "/static/media/Chabrielle_Allen_New_Beginning.7b6f6823.pdf",
     "static/media/Chabrielle_Allen_Productivity.pdf": "/static/media/Chabrielle_Allen_Productivity.750aa776.pdf",
@@ -23,6 +23,7 @@
     "static/media/alpha.png": "/static/media/alpha.6d636644.png",
     "static/media/art.jpg": "/static/media/art.0a0e8268.jpg",
     "static/media/battleship.png": "/static/media/battleship.ab0ef52a.png",
+    "static/media/black-joy-1.png": "/static/media/black-joy-1.05b15e4f.png",
     "static/media/styles.css": "/static/media/still-life.ffd2ff14.jpg",
     "static/media/cruise.jpg": "/static/media/cruise.cbe57776.jpg",
     "static/media/crusades.jpg": "/static/media/crusades.622b8c8c.jpg",
@@ -32,15 +33,21 @@
     "static/media/foucault.jpg": "/static/media/foucault.48b3846e.jpg",
     "static/media/hanszen.png": "/static/media/hanszen.8dddc3d9.png",
     "static/media/hoby-nm.png": "/static/media/hoby-nm.39d71f37.png",
+    "static/media/jimi.png": "/static/media/jimi.667f33f9.png",
+    "static/media/odd.jpg": "/static/media/odd.76dcca28.jpg",
     "static/media/reli.png": "/static/media/reli.24aac84e.png",
     "static/media/resume.png": "/static/media/resume.13f53dc9.png",
     "static/media/revelation.jpg": "/static/media/revelation.6ef63288.jpg",
-    "static/media/rice-cs.jpg": "/static/media/rice-cs.7a42fb2b.jpg"
+    "static/media/rice-cs.jpg": "/static/media/rice-cs.7a42fb2b.jpg",
+    "static/media/scuba.jpg": "/static/media/scuba.f4720d5d.jpg",
+    "static/media/seashells.jpg": "/static/media/seashells.3d38da2a.jpg",
+    "static/media/self-care.jpg": "/static/media/self-care.edc294f9.jpg",
+    "static/media/self-portrait-1.png": "/static/media/self-portrait-1.e8c5c107.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3ea18b6e.js",
-    "static/js/2.bcb69a29.chunk.js",
-    "static/css/main.c1288ca2.chunk.css",
-    "static/js/main.51cc7afb.chunk.js"
+    "static/js/2.6fbc52d0.chunk.js",
+    "static/css/main.c7d0bc38.chunk.css",
+    "static/js/main.230a9e0c.chunk.js"
   ]
 }

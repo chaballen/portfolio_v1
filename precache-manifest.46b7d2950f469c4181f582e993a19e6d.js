@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cec23bb40754f783908d23f44facd951",
+    "revision": "af33c5caba085773093b242cf8e1a27a",
     "url": "/index.html"
   },
   {
-    "revision": "3e3ed5c6b0c5fe3609cb",
-    "url": "/static/css/main.c1288ca2.chunk.css"
+    "revision": "ae4174a33333a39f1924",
+    "url": "/static/css/main.c7d0bc38.chunk.css"
   },
   {
-    "revision": "9e5099f76c9cebabb57e",
-    "url": "/static/js/2.bcb69a29.chunk.js"
+    "revision": "1e833cb77e98af3368fd",
+    "url": "/static/js/2.6fbc52d0.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.bcb69a29.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6fbc52d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e3ed5c6b0c5fe3609cb",
-    "url": "/static/js/main.51cc7afb.chunk.js"
+    "revision": "ae4174a33333a39f1924",
+    "url": "/static/js/main.230a9e0c.chunk.js"
   },
   {
     "revision": "4305ad129dcf89844c80",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/battleship.ab0ef52a.png"
   },
   {
+    "revision": "05b15e4f1d46a1159bf60657c5cf7f68",
+    "url": "/static/media/black-joy-1.05b15e4f.png"
+  },
+  {
     "revision": "0c8530337769593beaf256808a6ec8af",
     "url": "/static/media/cncd.0c853033.jpg"
   },
@@ -108,6 +112,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hoby-nm.39d71f37.png"
   },
   {
+    "revision": "667f33f92cc8c5f87f9c6aa58d0e10b9",
+    "url": "/static/media/jimi.667f33f9.png"
+  },
+  {
+    "revision": "76dcca28b90fe97a77cd45a2c2864c42",
+    "url": "/static/media/odd.76dcca28.jpg"
+  },
+  {
     "revision": "24aac84e8a20b5040df98b829321632b",
     "url": "/static/media/reli.24aac84e.png"
   },
@@ -124,8 +136,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/rice-cs.7a42fb2b.jpg"
   },
   {
+    "revision": "f4720d5ddaae69e3e56b08f470d8a050",
+    "url": "/static/media/scuba.f4720d5d.jpg"
+  },
+  {
+    "revision": "3d38da2a1012fe27b4637652f838fcaf",
+    "url": "/static/media/seashells.3d38da2a.jpg"
+  },
+  {
     "revision": "b7c3689749302bf92b2fe6177355d75e",
     "url": "/static/media/seattle.b7c36897.JPG"
+  },
+  {
+    "revision": "edc294f948922d27e8d44d677efb5ca5",
+    "url": "/static/media/self-care.edc294f9.jpg"
+  },
+  {
+    "revision": "e8c5c10751c4095d214e3c0e8d1c3ca2",
+    "url": "/static/media/self-portrait-1.e8c5c107.png"
   },
   {
     "revision": "ffd2ff14a28e855e4d00f43710775e9b",
